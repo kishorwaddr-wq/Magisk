@@ -1,4 +1,4 @@
-# Magisk Changelog
+# Magisk Changelog installed
 
 ### v31.0 (2026.9.4)
 
